@@ -13,7 +13,7 @@
 
 **[Try PathFinder AI Live →](https://anne-okingo.github.io/Thinking-Wide/)**
 
-> Replace `YOUR_LIVE_LINK_HERE` with your actual deployment link (GitHub Pages, Netlify, Vercel, etc.)
+[PathFinder AI](https://anne-okingo.github.io/Thinking-Wide/)
 
 ---
 
@@ -72,7 +72,7 @@ Young people worldwide face significant career-related challenges:
 
 ---
 
-## ✅ Our Solution
+## Our Solution
 
 PathFinder AI makes career discovery **simple, personalized, and completely free**.
 
@@ -413,16 +413,11 @@ We welcome contributions! If you'd like to improve PathFinder AI:
 
 ##  Contact & Support
 
-- **Project Repository**: [GitHub Link]
-- **Live Demo**: [Live Link]
-- **Report Issues**: [GitHub Issues]
-- **Email**: [your.email@example.com]
+- **Project Repository**: [https://github.com/Anne-Okingo/Thinking-Wide.git]
+- **Live Demo**: [https://anne-okingo.github.io/Thinking-Wide/]
+- **Email**: [annekadiso@gmail.com]
 
----
 
-##  Star Us!
-
-If PathFinder AI helped you or you found it useful, please give us a  on GitHub!
 
 ---
 
