@@ -19,20 +19,25 @@
 
  header {
      background-image: linear-gradient(rgba(23, 76, 97, 0.45),
-             rgba(23, 76, 97, 0.45)), url(assets/Careers3.webp);
+             rgba(23, 76, 97, 0.45)),
+         url(assets/Careers3.webp);
+     background-size: cover;
+     /* ensures full coverage */
+     background-repeat: no-repeat;
+     /* prevents tiling */
+     background-position: center;
+     /* centers the image */
      color: white;
      position: relative;
      overflow: hidden;
      min-height: 90vh;
-     /* makes it tall like a hero */
      padding: 40px 20px;
      display: flex;
      align-items: center;
-     /* vertical centering */
      justify-content: center;
-     /* horizontal centering */
      text-align: center;
  }
+
 
 
 
